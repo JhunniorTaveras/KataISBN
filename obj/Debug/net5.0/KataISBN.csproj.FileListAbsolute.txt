@@ -1,0 +1,16 @@
+C:\Users\jtave\source\repos\KataISBN\KataISBN\bin\Debug\net5.0\KataISBN.exe
+C:\Users\jtave\source\repos\KataISBN\KataISBN\bin\Debug\net5.0\KataISBN.deps.json
+C:\Users\jtave\source\repos\KataISBN\KataISBN\bin\Debug\net5.0\KataISBN.runtimeconfig.json
+C:\Users\jtave\source\repos\KataISBN\KataISBN\bin\Debug\net5.0\KataISBN.runtimeconfig.dev.json
+C:\Users\jtave\source\repos\KataISBN\KataISBN\bin\Debug\net5.0\KataISBN.dll
+C:\Users\jtave\source\repos\KataISBN\KataISBN\bin\Debug\net5.0\ref\KataISBN.dll
+C:\Users\jtave\source\repos\KataISBN\KataISBN\bin\Debug\net5.0\KataISBN.pdb
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\KataISBN.csproj.AssemblyReference.cache
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\KataISBN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\KataISBN.AssemblyInfoInputs.cache
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\KataISBN.AssemblyInfo.cs
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\KataISBN.csproj.CoreCompileInputs.cache
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\KataISBN.dll
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\ref\KataISBN.dll
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\KataISBN.pdb
+C:\Users\jtave\source\repos\KataISBN\KataISBN\obj\Debug\net5.0\KataISBN.genruntimeconfig.cache
